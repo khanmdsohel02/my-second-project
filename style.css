@@ -220,18 +220,22 @@ button a {
 
     margin-top: 57%;
 
+
 }
 
 #about-web {
 
     width: 100%;
+    margin-left: -1px;
+
+
 
 
 }
 
 .coding-time {
     margin-top: 5%;
-    padding-right: 5%;
+    padding-right: 7%;
 }
 
 .coding-time img {
@@ -305,4 +309,3 @@ button a {
 
 
 }
-
