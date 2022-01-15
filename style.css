@@ -223,7 +223,7 @@ button a {
 }
 
 #about-web {
-    border: 2px solid black;
+
     width: 100%;
 
 
@@ -306,10 +306,3 @@ button a {
 
 }
 
-/****Media Query*****/
-
-/**** For Mobile Devices *****/
-
-@media only screen and (max-width:688px) {
-    flex-direction: columns;
-}
