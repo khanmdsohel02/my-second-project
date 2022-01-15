@@ -101,7 +101,7 @@ button a {
     width: 100%;
 
     text-align: center;
-    margin-left: 12.5%;
+    margin-left: 10%;
     margin-top: -11.5%;
 
 
@@ -110,9 +110,7 @@ button a {
 }
 
 .brand-logo img {
-    margin-left: 65px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    margin: 40px;
     width: 120px;
 }
 
@@ -219,11 +217,15 @@ button a {
 
 /****web development career****/
 #career {
+
     margin-top: 57%;
+
 }
 
 #about-web {
-    margin-left: 60px;
+    border: 2px solid black;
+    width: 100%;
+
 
 }
 
